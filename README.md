@@ -16,13 +16,13 @@ It uses a **PowerShell script** and a **batch file** for drag-and-drop convenien
 1. Download or clone the repository.
 2. Make sure you have **PowerPoint installed** on your computer.
 3. Place the folder you want to convert somewhere accessible.
-4. Drag and drop the folder onto `convert-ppt-to-pdf.bat`.
+4. Drag and drop the folder onto `runner.bat`.
 5. Wait for the script to finish. Converted PDFs will appear in the `PDFs` folder inside your folder.
 
 ## Files
 
 - `convert-ppt-to-pdf.ps1` - The PowerShell script that does the conversion.
-- `convert-ppt-to-pdf.bat` - Batch file for drag-and-drop functionality.
+- `runner.bat` - Batch file for drag-and-drop functionality.
 
 ## Notes
 
