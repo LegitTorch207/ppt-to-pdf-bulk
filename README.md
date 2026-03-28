@@ -26,5 +26,5 @@ It uses a **PowerShell script** and a **batch file** for drag-and-drop convenien
 
 ## Notes
 
-- This script runs silently but requires **PowerPoint** installed on your system.
+- This script requires **PowerPoint** installed on your system.
 - Tested on Windows 10/11 with Microsoft PowerPoint.
